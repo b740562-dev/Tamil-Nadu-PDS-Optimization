@@ -6,38 +6,6 @@ Optimization of the Tamil Nadu Public Distribution System (PDS) procurement and 
 
 ---
 
-## 📁 Repository Structure
-
-```
-├── optimization_model.ipynb          # Main LP optimization model
-├── model_enhancements.ipynb          # Model extensions & sensitivity analysis
-├── weighbridge_routing.ipynb         # Weighbridge routing analysis
-│
-├── parameter_sweep.py                # Full parameter sweep across scenarios
-├── parameter_sweep_config.py         # Sweep configuration & base settings
-├── lambda_sensitivity_plot.py        # Lambda parameter sensitivity plots
-├── solution_verification.py          # Result verification & validation
-│
-├── rail_routes.csv                   # Rail route network data
-├── rail_shares.csv                   # Rail mode share data
-├── optimal_flows.csv                 # Optimized commodity flow results
-├── weighbridge_plan.csv              # Weighbridge allocation plan
-├── weighbridge_legs.csv              # Route leg data for weighbridges
-├── weighbridge_rail_legs.csv         # Rail leg data for weighbridges
-│
-├── Backend/
-│   └── input_dataset.xlsx            # Processed input dataset
-│
-├── Final Report/
-│   └── BTP_Final_Report.pdf          # Final BTP report
-│
-├── BTP_MidTerm_Report.pdf            # Mid-term progress report
-├── BTP_EndTerm_Presentation.pptx     # End-term presentation slides
-└── BTP_MidTerm_Presentation.pptx    # Mid-term presentation slides
-```
-
----
-
 ## 🔧 Requirements
 
 - Python 3.8+
