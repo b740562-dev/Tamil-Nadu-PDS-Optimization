@@ -1,6 +1,7 @@
 # Tamil Nadu PDS Optimization
+## BTP
 
-**Bachelor Thesis Project (BTP) | Department of Mechanical Engineering, IIT Delhi**
+**Bachelor Thesis Project | Department of Mechanical Engineering, IIT Delhi**
 
 **Team:** Hemang Mathur · Krish Kalra · Kumari Bebo
 **Supervisor:** Prof. Nomesh Bhojkumar Bolia
