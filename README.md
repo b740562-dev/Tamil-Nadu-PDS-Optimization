@@ -12,7 +12,6 @@ Optimization of the Tamil Nadu Public Distribution System (PDS) procurement and 
 ├── optimization_model.ipynb          # Main LP optimization model
 ├── model_enhancements.ipynb          # Model extensions & sensitivity analysis
 ├── weighbridge_routing.ipynb         # Weighbridge routing analysis
-├── network_routing_combined.ipynb    # Combined network routing model
 │
 ├── parameter_sweep.py                # Full parameter sweep across scenarios
 ├── parameter_sweep_config.py         # Sweep configuration & base settings
