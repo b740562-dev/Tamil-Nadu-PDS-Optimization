@@ -38,7 +38,7 @@ TNCSC's paddy logistics network spans **13 surplus districts** (Cauvery delta an
 
 ## Network Structure
 
-![Paddy logistics network](Final%20Report/figures/network.png)
+![Paddy logistics network](Final%20Report/figures/network_diagram.png)
 
 The network is a multi-echelon structure with two operationally distinct regions:
 
